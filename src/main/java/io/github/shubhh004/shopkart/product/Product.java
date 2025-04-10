@@ -1,4 +1,4 @@
-package io.github.shubhh004.shopkart;
+package io.github.shubhh004.shopkart.product;
 
 import java.util.Objects;
 
@@ -71,5 +71,4 @@ public class Product {
                 ", price=" + price +
                 '}';
     }
-
 }
